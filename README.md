@@ -4,11 +4,11 @@ Welcome to the official documentation for the **Hello API**, a fictional RESTful
 
 ## 📚 What's Included
 
- ✅ Getting Started Guide
- ✅ API Reference Documentation
- ✅ OpenAPI Specification (Swagger)
- ✅ Changelog & Versioning
- ✅ Best Practices for Writing Dev Docs
+ -✅ Getting Started Guide
+ -✅ API Reference Documentation
+ -✅ OpenAPI Specification (Swagger)
+ -✅ Changelog & Versioning
+ -✅ Best Practices for Writing Dev Docs
 
 > 🖋️ *Created and maintained by a technical writer for demonstration purposes.*
 
